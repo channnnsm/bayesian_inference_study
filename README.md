@@ -1,38 +1,14 @@
-# 書籍『Pythonでスラスラわかる ベイズ推論「超」入門』サポートサイト
+# 書籍『Pythonでスラスラわかる ベイズ推論「超」入門』の勉強用
 
 <div align="left">
 <img src="images/表紙-v1.png" width="300">
 </div>
 
 
-　当サイトは 、書籍『**Pythonでスラスラわかる ベイズ推論「超」入門**』のサポートサイトです。<br> 　ベイズ推論理解のためには、確率分布などの数学知識が必須です。本書であれば、数学知識が不十分な読者も、Python実習を通じて簡単にベイス推論が理解できます。
-
-##   宣伝
-### 講演会のビデオがYoutubeで公開されています
-2024年3月25日(月)に実施されたデータサイエンティスト協会主催の『ベイズ推論』webセミナーの講演内容が下記リンク先から公開されています。
-https://www.youtube.com/watch?v=ex119MhbyCk
-
-### おかげさまで大変好評です
-
-|ジャンル|順位|写真|
-|---|---|---|
-|アマゾンカテゴリ別(情報学・情報科学全般)|1位|<img src='images/amazon.jpeg' width=300>|
-|紀伊國屋新宿本店　週間IT書籍ランキング|1位|<img src='images/kinokunuya.jpeg' width= 100>|
-|東大生協 本郷書籍部 ベストセラー  |4位|<img src='images/seikyo.jpeg' width=150>|
-
-
-
-## Amazonへのリンク
-
-[単行本](https://www.amazon.co.jp/dp/4065337631) 
-
-[Kindle版](https://www.amazon.co.jp/dp/B0CP26YYRJ)
-<br>
-
-
+　当サイトは 、書籍『**Pythonでスラスラわかる ベイズ推論「超」入門**』の勉強用です。<br> ベイズ推論理解のためには、確率分布などの数学知識が必須です。本書であれば、数学知識が不十分な読者も、Python実習を通じて簡単にベイス推論が理解できます。
 
 ## 実習Notebookリンク
-　本書の実習コードは、Google Colabで動かすことを前提に、すべてGithub(当サポートサイト)で公開しています。  
+　本書の実習コードは、Google Colabで動かすことを前提に、すべてGithubで公開されています。  
 
 [実習Notebook一覧](https://github.com/makaishi2/python_bayes_intro/tree/main/notebooks)
 
@@ -148,30 +124,6 @@ https://www.youtube.com/watch?v=ex119MhbyCk
 |qiita|[潜在変数モデル補足](https://qiita.com/makaishi2/items/8dae04e51a79ae456995)|5.4節　潜在変数モデルの「ラベルスイッチ」について詳しく解説しました。|
 |qiita|[潜在変数モデル簡易版](https://qiita.com/makaishi2/items/2ce59c2562537b92f383)|5.4節の潜在変数モデルは複数の推論タスクを同時に行う非常に複雑な確率モデルです。この確率モデルをよく理解するためには、カテゴリ比率pを固定値とした簡易版を用いるといいことがわかったため、この点をqiita記事で詳しく説明しました。|
 |qiita|[Colab上のPyMC5をGPUで動かす](https://qiita.com/makaishi2/items/6247e80006b341216df8)|本書の実習の中でも6.3節の実習は特にサンプリングに時間がかかります。対策としてColabのGPUが使えることがわかり、その手順を解説しました。|
-
-
-
-
-## リンク集
-
-
-
-### 著者発信の情報
-
-|ソース  |タイトルとリンク  |補足|
-|---|---|---|
-|twitter|[@makaishi2](https://twitter.com/makaishi2)|著者のツイッターアカウント。書籍に関連した情報発信とretweetが中心です。|
-|異業種データサイエンス研究会招待講演資料|[AI・DS領域を学習したい方に向けて](https://speakerdeck.com/makaishi2/aidsling-yu-woxue-xi-sitaifang-nixiang-kete)|2022-12-03に異業種データサイエンス研究会主催で行われたイベントでの招講演資料です。|
-
-
-### 外部リンク
-
-
-|ソース  |タイトルとリンク  |補足|
-|---|---|---|
-|Amazon|[Amazonレビュー](https://www.amazon.co.jp/product-reviews/4065337631/)||
-|togetterまとめサイト|https://togetter.com/li/2274456 |有名ブロガーのkenkenさんの本書へのコメントがまとめられています|
-
 
 
 ***
